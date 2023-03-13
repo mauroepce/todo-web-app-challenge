@@ -1,0 +1,12 @@
+.todo_results {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500;
+  font-size: 18px;
+  text-transform: uppercase;
+
+
+ 
+  height: 50px;
+}
